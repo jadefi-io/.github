@@ -4,4 +4,4 @@ We currently have two products: Dragonsreach ("sniper") and Wisp (copy-trading a
 
 Repositories:
 
-[Moonbot](https://github.com/jadefi-io/moonbot): The Project is not live anymore, but it's archived and public to be read. It was the first version of our copy-trading engine.
+[Moonbot](https://github.com/jadefi-io/moonbot): The repository is not used anymore, but it's archived and public to be read. It was the first version of our copy-trading engine.
