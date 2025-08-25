@@ -1,4 +1,4 @@
-Jade is building for traders on the Solana memecoins market
+Jade is building automated trading systems for traders on the Solana cryptocurrency market
 
 Repositories:
 
